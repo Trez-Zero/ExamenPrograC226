@@ -4,7 +4,7 @@ double[] precios = new double[10];
 int[] cantidades = new int[10];
 int contadorProductos = 0;
 
-// Integrante 2, Sergio Cabrera
+// Integrante 2, Sergio Cabrera y Integrante 3, Jonas Hodgson
 int opcion = 0;
 
 do
