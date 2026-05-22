@@ -1,0 +1,15 @@
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\bin\Debug\net10.0\ExamenProgra.exe
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\bin\Debug\net10.0\ExamenProgra.deps.json
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\bin\Debug\net10.0\ExamenProgra.runtimeconfig.json
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\bin\Debug\net10.0\ExamenProgra.dll
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\bin\Debug\net10.0\ExamenProgra.pdb
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\obj\Debug\net10.0\ExamenProgra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\obj\Debug\net10.0\ExamenProgra.AssemblyInfoInputs.cache
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\obj\Debug\net10.0\ExamenProgra.AssemblyInfo.cs
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\obj\Debug\net10.0\ExamenProgra.csproj.CoreCompileInputs.cache
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\obj\Debug\net10.0\ExamenProgra.sourcelink.json
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\obj\Debug\net10.0\ExamenProgra.dll
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\obj\Debug\net10.0\refint\ExamenProgra.dll
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\obj\Debug\net10.0\ExamenProgra.pdb
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\obj\Debug\net10.0\ExamenProgra.genruntimeconfig.cache
+C:\Users\jnsho\Documents\ExamenProg1\ExamenPrograC226\obj\Debug\net10.0\ref\ExamenProgra.dll
